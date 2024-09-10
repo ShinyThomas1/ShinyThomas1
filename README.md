@@ -1,11 +1,19 @@
-## Hi there 👋
+## Hi 👋
+I am a Student at Western Michigan University pursuing MS in Computer Science.
+I am currently learning Artificial Intelligence, Machine Learning, Knowledge Management, IOT Security, Docker, Kubernetes and Openshift.
+Ask me About: Devops and IOT
+Pronouns: She/Her
+How to reach me: shiny.thomas@wmich.edu
+Fun Fact: if change is constant, so is Learning, Unlearning and Relearning
+
+Shiny Thomas
 
 <!--
 **ShinyThomas1/ShinyThomas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently learning I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
