@@ -1,12 +1,14 @@
 ## Hi 👋
-Student at Western Michigan University pursuing MS in Computer Science.
-<br />I am currently learning Artificial Intelligence, Machine Learning, Knowledge Management, IOT Security, Docker, Kubernetes and Openshift.	
-<br />Ask me About: Devops and IOT	
-<br />Pronouns: She/Her	
-<br />How to reach me: shiny.thomas@wmich.edu	
-<br />Fun Fact: if change is constant, so is Learning, Unlearning and Relearning	
+#### Student at Western Michigan University pursuing MS in Computer Science.
+#### :open_book: I am currently learning Artificial Intelligence, Machine Learning, Knowledge Management, IOT Security, Docker, Kubernetes and Openshift.	
+#### :speech_balloon: Ask me About: Devops and IOT	
+#### Pronouns: She/Her	
+#### :e-mail: How to reach me: shiny.thomas@wmich.edu	
 
-<br />Shiny Thomas
+>***Fun Fact: change is constant - so is Learning, Unlearning and Relearning*** 
+<br>
+<br>
+**Shiny Thomas**
 
 <!--
 **ShinyThomas1/ShinyThomas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
